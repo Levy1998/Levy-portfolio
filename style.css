@@ -17,7 +17,7 @@ color: #fff;
    width: 100%;
   height: 100vh;
   background-image: url(images/background.png);
-  background-size: 50%;
+  background-size: 300px auto;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -439,6 +439,7 @@ color: #ff004f;
     z-index: 999;
   }
 }
+
 
 
 
